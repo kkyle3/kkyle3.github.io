@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>逆舟的个人小站</title>
+  
+  <subtitle>逆舟</subtitle>
+  <link href="https://wudiguang.top/atom.xml" rel="self"/>
+  
+  <link href="https://wudiguang.top/"/>
+  <updated>2023-04-09T05:39:30.918Z</updated>
+  <id>https://wudiguang.top/</id>
+  
+  <author>
+    <name>逆舟</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【考试】中学教资考试相关</title>
+    <link href="https://wudiguang.top/2023/02/12/%E6%B5%8B%E8%AF%95/"/>
+    <id>https://wudiguang.top/2023/02/12/%E6%B5%8B%E8%AF%95/</id>
+    <published>2023-02-13T00:23:00.000Z</published>
+    <updated>2023-04-09T05:39:30.918Z</updated>
+    
+    
+    <summary type="html">教育相关的记录，中学教师资格证考试，科目一、科目二</summary>
+    
+    
+    
+    <category term="考证" scheme="https://wudiguang.top/categories/%E8%80%83%E8%AF%81/"/>
+    
+    
+    <category term="教资考试" scheme="https://wudiguang.top/tags/%E6%95%99%E8%B5%84%E8%80%83%E8%AF%95/"/>
+    
+  </entry>
+  
+</feed>
